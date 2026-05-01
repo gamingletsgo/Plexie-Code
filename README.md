@@ -16,17 +16,13 @@ the thing itself: its made with turbowarp.
 
 Downloads:
 
-itch: on this page
+itch: https://leamas-rebsk.itch.io/plexie-code
 
 drive: https://drive.google.com/file/d/1aAYn3Ioy-j23W6M_NqGCOu8sZuAiQpl2/view?usp=shari...
 
 Requerments:
 
 Python: https://www.python.org/
-
-
-itch site: https://leamas-rebsk.itch.io/plexie-code
-
 
 Help me devolop:
 
